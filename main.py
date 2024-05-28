@@ -3,3 +3,6 @@ def print_doing():
 
 def print_end():
     print("end")
+
+def print_success():
+    print("success")
